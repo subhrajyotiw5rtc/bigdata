@@ -1,0 +1,17 @@
+{
+  "name": "bigdata",
+  "description": "Task management application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "morgan": "~1.7.0",
+    "body-parser": "~1.15.2",
+    "method-override": "~2.3.7",
+    "mongojs": "~2.4.0",
+    "node-datetime": "~2.0.0",
+    "crypto": "~0.0.3"
+  }
+}
